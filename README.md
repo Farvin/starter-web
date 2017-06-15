@@ -1,17 +1,14 @@
-<<<<<<< HEAD
 # Starter Web Project
 
+This is a simple website project for showing how to use Git and Github together.
+
 ## Introduction
-=======
-#Starter Web Project
->>>>>>> 14eb5369bd4c9d5943e4e5dae6ba79d949ca0e12
+
+This example is to show different parts of the Git repository and various commands using a web project.
 
 ## Purpose
 
 ## Deployment
 
-<<<<<<< HEAD
 ## How to Contribute
-=======
-##How to Contribute
->>>>>>> 14eb5369bd4c9d5943e4e5dae6ba79d949ca0e12
+
